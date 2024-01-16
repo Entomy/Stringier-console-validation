@@ -9,7 +9,7 @@
     <PackageReference Include="Consolator" Version="0.4.2" />
     <PackageReference Include="Stringier" Version="2.1.0" />
     <PackageReference Include="Stringier.Patterns" Version="2.1.0" />
-    <PackageReference Include="System.Data.SqlClient" Version="4.8.0" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.6" />
   </ItemGroup>
 
 </Project>
